@@ -1,0 +1,19 @@
+{
+    "name": "Calcinho",
+    "short_name": "Consultorio Calcinho",
+    "theme_color": "#b4dfe7",
+    "background_color": "#b4dfe7",
+    "theme-color": "#b4dfe7",
+    "background-color": "#b4dfe7",
+    "display": "standalone",
+    "start_url": "pwa.html",
+    "prefer_related_applications": false,
+    "description":"Teste",
+    "icons": [
+      {
+        "src": "./imagens/logo1000.png",
+        "sizes": "1000x1000",
+        "type": "image/png"
+      }
+    ]
+  }
